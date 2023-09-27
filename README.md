@@ -8,4 +8,4 @@ I created this notebook to learn more about NLP and text data analysis. Below is
 
 **Approach**: Train a classifier model that uses the words in the reviews as x-variables and the recommendation column as the y-variable. Analyze its features and their weights to solve the problem.
 
-**Model selection**: Naive Bayes is chosen, partly because I've rarely used it before. Its Multinomial type is well suited for text classification.
+**Model selection**: Naive Bayes is chosen, partly because I've rarely used it before but also because its Multinomial type is well suited for text classification.
